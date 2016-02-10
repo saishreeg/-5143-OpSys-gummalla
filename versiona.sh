@@ -1,4 +1,4 @@
 #!/bin/bash
 tdate=`date '+%Y_%m_%d'`;
-name="$tdate.shree.txt"
-echo $name;
+filename=$1;
+echo $tdate $filename;
