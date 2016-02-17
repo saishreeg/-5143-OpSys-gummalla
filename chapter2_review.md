@@ -54,4 +54,8 @@ Micro kernel : Kernel Image = Kernel Core. Services are build in to special modu
 In computer architecture, multithreading is the ability of a central processing unit (CPU) or a single core in a multi-core processor to execute multiple processes or threads concurrently, appropriately supported by the operating system.
 
 ##List the key design issues for an SMP operating system.
-1.Simultaneous concurrent process or threads 2 . Scheduling 3 . Synchronization 4 . Memory management 5 . Reliability and fault tolerance
+1.Simultaneous concurrent process or threads 
+2 . Scheduling 
+3 . Synchronization
+4 . Memory management 
+5 . Reliability and fault tolerance
