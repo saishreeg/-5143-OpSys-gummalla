@@ -23,7 +23,7 @@ Swapping was an older form of memory management. It was moving from/to secondary
   f.Interprocesscommunication
 
 ##Why are two modes (user and kernel) needed?
-#In kernel mode ,the code has complete and there is no restriction on access to hardware it can execute any CPU instruction and it is reserved for lowerlevel and most trusted functions of os.crashes that occur in occur in kernel mode halt the entire pc
+In kernel mode ,the code has complete and there is no restriction on access to hardware it can execute any CPU instruction and it is reserved for lowerlevel and most trusted functions of os.crashes that occur in occur in kernel mode halt the entire pc
 In user mode,the code has no direct access to hardware .code running in user mode must request system APIs to access hardware.
 
 ##What is the difference between an interrupt and a trap?
